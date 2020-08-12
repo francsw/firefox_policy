@@ -26,7 +26,7 @@
         "Pocket": false
     },
     "Homepage": {
-      "URL": "https://jira.int.ops.cert.govt.nz/",
+      "URL": "https://jira.int.{{mail_domain}}/",
       "StartPage": "homepage",
       "Locked": true
     },
@@ -39,6 +39,7 @@
       "SOCKSVersion": 5,
       "UseHTTPProxyForAllProtocols": true,
       "UseProxyForDNS": false
-    }
+    },
+    "DisplayBookmarksToolbar": true
   }
 }
