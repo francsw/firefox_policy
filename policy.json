@@ -20,6 +20,10 @@
     "DisablePocket": true,
     "DisableFirefoxStudies": true,
     "DisableTelemtry": true,
-    "BlockAboutAddons": true
+    "BlockAboutAddons": true,
+    "FirefoxHome": {
+        "Highlights": false,
+        "Pocket": false
+    }
   }
 }
