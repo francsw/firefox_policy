@@ -36,7 +36,6 @@
       "HTTPProxy": "proxy.ext.ops.cert.govt.nz:3128",
       "Mode": "manual",
       "Passthrough": "localhost,.int.ops.cert.govt.nz,.int.uat.ops.cert.govt.nz,.adm.ops.cert.govt.nz",
-      "SOCKSVersion": 5,
       "UseHTTPProxyForAllProtocols": true,
       "UseProxyForDNS": false
     },
