@@ -1,5 +1,5 @@
 {
-  "polices": {
+  "policies": {
     "Authentication": {
       "SPNEGO": ["*.ops.cert.govt.nz"],
       "Delegated": ["*.ops.cert.govt.nz"],
