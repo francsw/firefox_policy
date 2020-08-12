@@ -1,0 +1,25 @@
+{
+  "polices": {
+    "Authentication": {
+      "SPNEGO": ["*.ops.cert.govt.nz"],
+      "Delegated": ["*.ops.cert.govt.nz"],
+      "AllowNonFQDN": {
+        "SPNEGO": true,
+        "NTLM": false
+      },
+      "AllowProxies": {
+        "SPNEGO": false,
+        "NTLM": false
+      },
+      "Locked": false,
+      "PrivateBrowsing": true
+    }
+    "PasswordManagerEnabled": false,
+    "DisableFormHistory": true,
+    "DisableFirefoxAccounts": true,
+    "DisablePocket": true,
+    "DisableFirefoxStudies": true,
+    "DisableTelemtry": true,
+    "BlockAboutAddons": true
+  }
+}
